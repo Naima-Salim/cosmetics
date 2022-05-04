@@ -1,0 +1,223 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar ul{
+    padding: 6%;
+}
+.navbar{
+    display: flex;
+    font-size: 30px;
+    margin-top: -100px;
+}
+.log-button{
+    height: 55px;
+    width: 130px;
+    font-size: 17px;
+    border-radius: 20px;
+    margin-left: 450%;
+    border: none;
+    margin-top: 115px;
+    background-color: black;
+    color: white;
+}
+.two{
+    height: 750px;
+    background-color: #Eeeced;
+}
+header{
+    font-style: italic;
+    padding-top: 7%;
+    font-size: 60px;
+    margin-left: 10%;
+}
+/* .logo{
+    margin-top: 30px;
+    font-size: 50px;
+    margin-left: 60px;
+    font-style: oblique;
+} */
+.container{
+   background-color:  #Eccd56;
+    padding-top: 2%;
+    /* background-image: url(amy-shamblen-xwM61TPMlYk-unsplash.jpg); */
+    
+    
+}
+
+.container-1{
+    background-color: #Eeeced;
+  
+}
+h1{
+    font-size: 25px;
+    margin-top: 6%;
+    font-size: 32px;
+    font-weight: lighter;
+    margin-left: 10%;
+}
+h2{
+    margin-top: -10%;
+    margin-left: 55%;
+    font-size: 32px;
+    font-weight: lighter;
+}
+h3{
+    margin-left: 50%;
+    margin-top: -30%;
+    font-size: 50px;
+    color: white;
+    font-style: oblique;
+    font-weight: lighter;
+}
+h6{
+  font-weight: lighter;
+  font-size: 15px;  
+}
+p{
+    font-size: 55px;
+    margin-left: 33%;
+    padding-top: 3%;
+}
+.container-3{
+    background-color: #Eccd56;
+    height: 700px;
+}
+/* .container-4{
+    background-color: black;
+} */
+.five{
+    display: flex;
+}
+.six{
+    display: flex;
+}
+.container-4{
+    background-color: #d7c8ad;
+}
+.container-5{
+    background-color: #d7c8ad;
+    display: flex;
+    padding-top: 5%;
+}
+.container-6{
+    background-color: #d7c8ad;
+    display: flex;
+    width: 2000px;
+}
+h5{
+    margin-left: 10%;
+    font-size: 40px;
+    padding-top: 20%;
+   
+}
+.image-3{
+    padding-top: 12%;
+    margin-left: 2%;
+    margin-bottom: 10%;
+}
+.image-4{
+    margin-left: 3%;
+    padding-top: 12%;
+}
+.image-5{
+    margin-left: 3%;
+    padding-top: 12%;
+}
+.image-6{
+    margin-left: 3.5%;
+    padding-top: 12%;
+}
+.discount{
+    
+}
+h4{
+    font-size: 30px;
+    font-style: oblique;
+    text-align: center;
+    margin-left: 10%;
+   
+}
+h6{
+    text-align: center;
+   font-size: 50px;
+   margin-top: 40px;
+}
+.bookings{
+    margin-right: 12%;
+}
+.container-7{
+    background-color: #cca525;
+}
+.name{
+    font-size: 30px;
+    /* margin-left: 35%; */
+    text-align: center;
+    margin-top: 3%;
+}
+.name input{
+    height: 60px;
+    width: 25%;
+    border-radius: 20px;
+    padding-left: 5%;
+    border: none;
+    background-color: #d7c8ad;
+    box-shadow: 3px 3px 3px 3px palevioletred;
+    
+}
+.time{
+    font-size: 30px;
+    /* margin-left: 35%; */
+    margin-top: 2%;
+    text-align: center;
+}
+.time input{
+    height: 60px;
+    width: 25%;
+    border-radius: 20px;
+    padding-left: 5%;
+    border: none;
+    background-color: #d7c8ad;
+    box-shadow: 3px 3px 3px 3px palevioletred;
+}
+.date{
+    font-size: 30px;
+    /* margin-left: 35%; */
+    text-align: center;
+    margin-top: 2%;
+}
+.date input{
+    height: 60px;
+    width: 25%;
+    border-radius: 20px;
+    padding-left: 5%;
+    border: none;
+    background-color: #d7c8ad;
+    box-shadow: 3px 3px 3px 3px palevioletred;
+}
+.book-now{
+    margin-left: 42%;
+    margin-top: 3%;
+    height: 60px;
+    width: 15%;
+    font-size: 24px;
+    font-style: oblique;
+    border-radius: 60px; 
+    border: none;
+    background-color: #d7c8ad; 
+    box-shadow: 3px 3px 3px 3px palevioletred;
+}
+.container-7{
+    height: 730px;
+}
+footer{
+    text-align: center;
+    background-color: black;
+    height: 155px;
+    color: white;
+    font-size: 40px;
+    margin-bottom: 0.5px;
+    padding-top: 3%;
+
+}
