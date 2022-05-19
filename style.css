@@ -18,7 +18,7 @@
     border-radius: 20px;
     margin-left: 450%;
     border: none;
-    margin-top: 115px;
+    margin-top: 105px;
     background-color: black;
     color: white;
 }
@@ -32,18 +32,10 @@ header{
     font-size: 60px;
     margin-left: 10%;
 }
-/* .logo{
-    margin-top: 30px;
-    font-size: 50px;
-    margin-left: 60px;
-    font-style: oblique;
-} */
+
 .container{
    background-color:  #Eccd56;
-    padding-top: 2%;
-    /* background-image: url(amy-shamblen-xwM61TPMlYk-unsplash.jpg); */
-    
-    
+   padding-top: 2%;   
 }
 
 .container-1{
@@ -73,7 +65,7 @@ h3{
 }
 h6{
   font-weight: lighter;
-  font-size: 15px;  
+  font-size: 5px;  
 }
 p{
     font-size: 55px;
@@ -114,7 +106,7 @@ h5{
 }
 .image-3{
     padding-top: 12%;
-    margin-left: 2%;
+    margin-left: 3.4%;
     margin-bottom: 10%;
 }
 .image-4{
@@ -141,7 +133,7 @@ h4{
 }
 h6{
     text-align: center;
-   font-size: 50px;
+   font-size: 35px;
    margin-top: 40px;
 }
 .bookings{
