@@ -18,7 +18,7 @@
     border-radius: 20px;
     margin-left: 450%;
     border: none;
-    margin-top: 105px;
+    margin-top: 110px;
     background-color: black;
     color: white;
 }
@@ -87,16 +87,18 @@ p{
 }
 .container-4{
     background-color: #d7c8ad;
+    width: 100%;
 }
 .container-5{
     background-color: #d7c8ad;
     display: flex;
     padding-top: 5%;
+    width: 100%;
 }
 .container-6{
     background-color: #d7c8ad;
     display: flex;
-    width: 2000px;
+    width: 100%;
 }
 h5{
     margin-left: 10%;
@@ -106,19 +108,19 @@ h5{
 }
 .image-3{
     padding-top: 12%;
-    margin-left: 3.4%;
+    margin-left: 3.5%;
     margin-bottom: 10%;
 }
 .image-4{
-    margin-left: 3%;
+    margin-left: 4.5%;
     padding-top: 12%;
 }
 .image-5{
-    margin-left: 3%;
+    margin-left: 4.5%;
     padding-top: 12%;
 }
 .image-6{
-    margin-left: 3.5%;
+    margin-left: 4.5%;
     padding-top: 12%;
 }
 .discount{
